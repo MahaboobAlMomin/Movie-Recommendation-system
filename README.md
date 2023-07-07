@@ -1,5 +1,5 @@
-# movies-scroller-app
-An app which shows  movies  based on popularity and description in its recyclerview and it also has movies search functionality based on respective keywords
+# Movies-Recommendtion-System
+An app which shows  movies  based on popularity and description in its recyclerview and it also has movies search functionality based on respective keywords.A movie recommendation system is a technology that suggests movies to users based on their preferences, past viewing history, and similar profiles of other users. It uses algorithms to analyze user data and provide personalized recommendations. These systems consider various factors such as genre, actors, directors, ratings, and user reviews to make accurate recommendations. By leveraging machine learning and data analysis techniques, movie recommendation systems help users discover new movies that align with their tastes, increase user engagement, and enhance their overall movie-watching experience. These systems are widely used by streaming platforms and online movie databases to provide tailored suggestions and improve customer satisfaction.
 
 
 API credits: [The Movie DataBase](https://developers.themoviedb.org/3/getting-started/introduction)
